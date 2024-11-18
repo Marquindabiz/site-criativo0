@@ -1,6 +1,6 @@
 body {
     color: #060605;
-    background: #2d792d;
+    background: #886a3c;
     margin: 0px;
     font-family: "Georgia", serif;
     margin-bottom: 100px;
@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: #886a3c;
+    background: #81ad5a;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
