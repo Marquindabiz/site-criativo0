@@ -1,5 +1,5 @@
 body {
-    color: #795A2D;
+    color: #060605;
     background: rgb(51, 123, 54);
     margin: 0px;
     font-family: "Georgia", serif;
@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgb(175, 245, 181);
+    background: #795A2D;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
