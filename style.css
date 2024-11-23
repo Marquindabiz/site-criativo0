@@ -1,6 +1,6 @@
 body {
-    color: #ffffff;
-    background: #886a3c;
+    color: rgb(82, 61, 40);
+    background: rgb(52, 157, 78);
     margin: 0px;
     font-family: "Georgia", serif;
     margin-bottom: 100px;
@@ -10,11 +10,11 @@ header {
     border-bottom: solid 2px rgb(83, 23, 43);
     padding: 20px;
     font-size: 32px;
-    color: #000000;
+    color: rgb(82, 61, 40);
 }
 
 .chamada {
-    background: #81ad5a;
+    background: rgb(197, 238, 125);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -52,9 +52,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(39, 39, 86);
+    border: 3px solid rgb(28, 54, 67);
 }
 
 .categoria h2 {
-    color:#020202;
+    color:rgb(0, 109, 109);
 }
